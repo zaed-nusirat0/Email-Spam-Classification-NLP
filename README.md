@@ -1,4 +1,4 @@
-Spam Email Classification using Natural Language Processing (NLP)
+# Spam Email Classification using Natural Language Processing (NLP)
 Project Overview
 This project aims to develop a robust spam email classification system leveraging Natural Language Processing (NLP) and various machine learning algorithms. As spam emails continue to pose challenges in email management, this project seeks to provide an effective solution to classify emails into two categories: 'spam' and 'ham' (non-spam).
 
